@@ -188,3 +188,4 @@
 
 # Metadata
 /metadata/boot_log\.txt                                             u:object_r:vendor_boot_log_file:s0
+/dmabuf(/.*)?                                                       u:object_r:dmabuf_device:s0
